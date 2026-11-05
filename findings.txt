@@ -1,0 +1,44 @@
+======================================================================
+1) TEAM EPA PER PLAY (regular season, pass+run plays)
+2024: SEA offense EPA/play -0.030 (rank 19 of 32), defense EPA/play allowed -0.012 (rank 11 of 32)
+2025: SEA offense EPA/play +0.033 (rank 13 of 32), defense EPA/play allowed -0.116 (rank 2 of 32)
+2026: SEA offense EPA/play -0.054 (rank 24 of 32), defense EPA/play allowed -0.087 (rank 5 of 32)
+
+======================================================================
+2) SEAHAWKS PASS vs RUN (EPA/play, success rate)
+2024 pass: n= 648  EPA/play -0.015  success 45.5%
+2024 run : n= 370  EPA/play -0.055  success 41.1%
+2025 pass: n= 506  EPA/play +0.112  success 51.6%
+2025 run : n= 491  EPA/play -0.049  success 40.9%
+2026 pass: n= 279  EPA/play +0.026  success 43.7%
+2026 run : n= 222  EPA/play -0.154  success 37.4%
+
+======================================================================
+3) SEAHAWKS QUARTERBACKS (dropback EPA, min 100 dropbacks)
+2024 G.Smith: 629 pass plays, EPA/play +0.005, 22 TD, 15 INT
+2025 S.Darnold: 502 pass plays, EPA/play +0.126, 26 TD, 14 INT
+2026 S.Darnold: 228 pass plays, EPA/play -0.071, 11 TD, 9 INT
+
+======================================================================
+4) EARLY-DOWN (1st & 2nd) PASS RATE, NEUTRAL SCRIPT
+   (Q1-Q3 + Q4 within one score, win prob 20-80%)
+2024: SEA early-down pass rate 56.7% (rank 3 of 32), early-down EPA/play +0.007 (rank 19)
+2025: SEA early-down pass rate 50.9% (rank 20 of 32), early-down EPA/play +0.033 (rank 14)
+2026: SEA early-down pass rate 49.0% (rank 22 of 32), early-down EPA/play -0.144 (rank 31)
+
+======================================================================
+5) RED ZONE OFFENSE (plays inside the 20)
+2024: SEA red-zone EPA/play -0.201 (rank 30 of 32), plays: 125
+2025: SEA red-zone EPA/play +0.009 (rank 17 of 32), plays: 169
+2026: SEA red-zone EPA/play -0.077 (rank 23 of 32), plays: 78
+
+======================================================================
+6) SEAHAWKS 2026 WEEKLY OFFENSIVE EPA/PLAY
+  Week 1: +0.066  (n=47)
+  Week 2: +0.134  (n=67)
+  Week 3: -0.046  (n=64)
+  Week 4: -0.088  (n=56)
+  Week 5: -0.425  (n=60)
+  Week 6: -0.087  (n=81)
+  Week 7: +0.156  (n=69)
+  Week 8: -0.163  (n=57)
